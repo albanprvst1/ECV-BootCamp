@@ -32,7 +32,7 @@ const TextInputExample = () => {
 const styles = StyleSheet.create({
   input: {
     height: 40,
-    margin: 12,
+    margin: 50,
     borderWidth: 1,
     padding: 10,
     marginBottom :30,
@@ -42,10 +42,11 @@ const styles = StyleSheet.create({
     fontSize : 20,
     backgroundColor: "purple",
     padding : 100,
+    paddingLeft: 135,
     marginBottom : 20,
   },
   text2: {
-    marginLeft :70,
+    marginLeft :105,
   },
 });
 
