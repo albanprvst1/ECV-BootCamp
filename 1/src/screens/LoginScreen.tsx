@@ -25,6 +25,7 @@ const TextInputExample = () => {
       />
       <Button color="purple" title="Login" />
       <Text style = {styles.text2}> Read Terms and conditions  </Text>
+      <Text> useStarships() </Text>
     </View>
     </React.Fragment>
   );
